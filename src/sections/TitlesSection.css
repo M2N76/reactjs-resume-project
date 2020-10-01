@@ -1,0 +1,22 @@
+.icons-wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.icon {
+  margin: 10px;
+}
+
+.first {
+  background-color: #020f75;
+  color: white;
+ 
+}
+
+.first-zard {
+  background-color: rgb(129, 25, 82);
+  color: white;
+ 
+}

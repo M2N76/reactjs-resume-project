@@ -1,0 +1,13 @@
+html,
+ body {
+  box-sizing: border-box;
+  height: 100%;
+  margin: 0;
+  font-family: "Merriweather", serif;
+  
+}
+
+h4 {
+  margin: 0;
+  font-size: 20px;
+}
